@@ -1,0 +1,64 @@
+.scnd-hdr{
+    display: inline-block;
+    
+}
+.hero-sec{
+    margin-left: 5%;
+    display: flex;
+    margin-top: 40px;
+    width: 90%;
+    
+}
+.prd-bx{
+    display: flex;
+    width: 25%;
+    height: 30px;
+    align-items: center; 
+}
+.product{
+    margin-left: 20px;
+}
+.woman77{
+    display: inline;
+    margin-left: 250px;
+    /* border: 1px solid black; */
+}
+.shrt-phrse{
+    width: 70%;
+}
+.lft-hero{
+    color: rgb(5, 5, 92);
+}
+.contact{
+    border: 1px solid rgb(117, 117, 216);
+    text-decoration: none;
+    color: white;
+    background-color: rgb(117, 117, 216);
+    height: 30px;
+    display: flex;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: 500;
+   
+}
+.contact-bx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    width: 50%;
+}
+.svg-bx{
+    display: flex;
+    margin-left: 40px;
+    width: 53%;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.txt-bx-2{
+    margin-left: 5px;
+}

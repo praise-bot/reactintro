@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+}
+
+.footer-bx{
+    width: 100%;
+    /* margin-left: 10%; */
+    background-color: rgb(2, 2, 65);
+    height: 250px;
+    
+}
+.top-bx{
+    border-bottom: 1px solid grey;
+    width: 90%;
+    margin-left: 5%;
+    /* margin-top: 30px; */
+    height: 100px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.right-ft-bx{
+    margin-left: auto;
+    display: flex;
+}
+.insta{
+    background-color: rgb(102, 102, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.whatsapp{
+    background-color: rgb(102, 102, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.facebook{
+    background-color: rgb(102, 102, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.twitter{
+    background-color: rgb(102, 102, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.btm-of-ft-bx{ 
+    margin-left: 5%;
+    font-size: 10px;
+    color: white;
+}
+.innr-btm-of-ft-bx-hdr{
+    margin-bottom: 0;
+}
+.innr-btm-of-ft-bx{
+    display: flex;
+    height: 50px;
+    font-size: 16px;
+    align-items: center;
+    width: 95%;
+    margin-top: 0;
+}
+
+.sprd-lnks-in-ft-bx{
+    text-decoration: none;
+    color: grey;
+    margin-left: 5%;
+}
+.sprd-lnks-in-ft-bx-frst{
+    text-decoration: none;
+    color: grey; 
+}
+.sprd-lnks-in-ft-bx-lst{
+    text-decoration: none;
+    color: white; 
+    margin-left: auto;
+    background-color: rgb(102, 102, 226);
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ft-bx-copyright{
+    font-size: 10px;
+    color: rgb(204, 201, 201);
+    text-align: center;
+    margin-top: 30px;
+}
